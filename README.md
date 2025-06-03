@@ -8,4 +8,4 @@ The shortest move sequence is determined by finding the minimum path among all p
     <img width=80% src='img/knight.png'>
 </div>
 
-This [Jupyter Notebook](solve.ipynb) shows how to use `Knight` class and solve for the minimum number of moves taken from origin to destination on a chessboard.
+The [Jupyter Notebook](solve.ipynb) shows how to use `Knight` class and solve for the minimum number of moves taken from origin to destination on a chessboard.
